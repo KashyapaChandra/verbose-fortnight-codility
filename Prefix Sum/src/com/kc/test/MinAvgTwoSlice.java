@@ -41,5 +41,6 @@ public class MinAvgTwoSlice {
 	 int A[]= {4,2,2,5,1,5,8};
 	 MinAvgTwoSlice mat = new MinAvgTwoSlice();
 	 System.out.println(mat.solution(A));
+	 System.out.println("One change from machine2 cuz Im the one who is great");
  }
 }
