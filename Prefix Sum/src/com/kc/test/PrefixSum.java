@@ -4,6 +4,9 @@ public class PrefixSum {
 	public int solution3(int a) {
 		return a+3;
 	}
+	public int fromChild(int a) {
+		return a+10;
+	}
 
 	public static void main(String[] args) {
 		int A[] = {1,3,4,5,6,7,8};

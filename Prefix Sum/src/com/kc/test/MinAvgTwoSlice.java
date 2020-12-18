@@ -8,7 +8,9 @@ public class MinAvgTwoSlice {
 	public int solution2new(int a) {
 		return a+1;
 	}
- 
+	public int solution3fromsecond(int a) {
+		return a+1;
+	}
  
 	public int solution(int a[]) {
 		int x=0;
