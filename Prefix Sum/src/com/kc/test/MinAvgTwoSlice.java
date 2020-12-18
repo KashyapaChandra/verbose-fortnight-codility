@@ -1,6 +1,10 @@
 package com.kc.test;
 
 public class MinAvgTwoSlice {
+	
+	public int solution1(int a) {
+		return a;
+	}
  
 	public int solution(int a[]) {
 		int x=0;
@@ -25,10 +29,7 @@ public class MinAvgTwoSlice {
 				i++;
 		}
 		return index1;
-	}
-	
-	
-	
+	}	
 	
 	public static void main(String[] args) {
 	 int A[]= {4,2,2,5,1,5,8};
