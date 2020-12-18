@@ -5,7 +5,7 @@ public class MinAvgTwoSlice {
 	public int solution1(int a) {
 		return a;
 	}
-	public int solution2(int a) {
+	public int solution2new(int a) {
 		return a+1;
 	}
  
