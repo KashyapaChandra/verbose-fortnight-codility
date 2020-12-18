@@ -35,4 +35,11 @@ class Solution {
      // A is not divisible by M 
      return (B / K) - (A / K); 
  }
+ boolean t=false;
+ public void testConflicts(boolean t) {
+	 if(this.t==true)
+		 t=false;
+	 else
+		 t=true;
+ }
 }
