@@ -11,6 +11,7 @@ public class MinAvgTwoSlice {
 	public int solution3fromsecond(int a) {
 		return a+1;
 	}
+	
  
 	public int solution(int a[]) {
 		int x=0;
@@ -41,5 +42,6 @@ public class MinAvgTwoSlice {
 	 int A[]= {4,2,2,5,1,5,8};
 	 MinAvgTwoSlice mat = new MinAvgTwoSlice();
 	 System.out.println(mat.solution(A));
+	 System.out.println("One change from machine1");
  }
 }
